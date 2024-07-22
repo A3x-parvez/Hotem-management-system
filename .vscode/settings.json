@@ -1,0 +1,13 @@
+{
+    "java.project.referencedLibraries": {
+        "include": [
+            "lib/**/*.jar",
+            "c:\\Program Files (x86)\\MySQL\\mysql-connector-j-8.0.33\\mysql-connector-j-8.0.33.jar",
+            "c:\\Users\\itsri\\Downloads\\rs2xml.jar"
+        ],
+        "exclude": [
+            "c:\\Program Files (x86)\\MySQL\\mysql-connector-j-8.3.0\\mysql-connector-j-8.3.0.jar"
+        ]
+    },
+    "java.debug.settings.onBuildFailureProceed": true
+}
