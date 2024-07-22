@@ -1,2 +1,2 @@
 # Hotem-management-system
- This is hotel management GUI desktop application bulid using java swing.
+ This is a hotel management GUI desktop application interface bulid using java swing.
